@@ -6,9 +6,9 @@
 ![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiago.krathos@gmail.com)
 
 ```javascript
- <script>
+<script>
     alert( 'Hello, world! 👋' );
-  </script>
+</script>
  ```
 
 Tech Lead | Analista Desenvolvedor | Microsoft Certification Professional (MCP) 70-483.
