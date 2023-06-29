@@ -11,7 +11,7 @@
 </script>
  ```
 
-Tech Lead | Analista Desenvolvedor | Microsoft Certification Professional (MCP) 70-483.
+Engineer Manager | Tech Lead | Analista Desenvolvedor | Microsoft Certification Professional (MCP) 70-483.
 
 **Languages and Tools:**  
 
