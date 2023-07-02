@@ -26,9 +26,8 @@ Engineer Manager | Tech Lead | Analista Desenvolvedor | Microsoft Certification 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
 
-- :office_worker: Atualmente ocupo um cargo de líder técnico, em uma equipe de desenvolvimento.
-- :blue_heart: Techs: Java, C#, Visual Basic, MySQL.
-- :new: Studying new technologies: ReactJS, React-Native, MongoDB e NodeJS.
+- :office_worker: Engineer Manager.
+- :blue_heart: Techs: Nodejs, react-native, reactjs, Java, C#, Visual Basic, MySQL.
 <p align="justify">
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thiagokrathos&show_icons=true&count_private=true&theme=radical&hide=issues" />
