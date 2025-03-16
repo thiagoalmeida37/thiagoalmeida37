@@ -10,6 +10,19 @@
     alert( 'Hello, world! 👋' );
 </script>
  ```
+## Start here:
+Reactjs
+    - Login
+    - CRUD
+    - Profile photo
+    - Dark Mode
+    - 
+
+React Native
+
+Java
+
+Python
 
 Engineer Manager | Tech Lead | Analista Desenvolvedor | Microsoft Certification Professional (MCP) 70-483.
 
